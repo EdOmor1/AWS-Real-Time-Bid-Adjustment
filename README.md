@@ -1,5 +1,3 @@
-# Real-Time-Bid-Adjustment
-
 # Real-Time Bid Adjustment
 
 ## Overview
